@@ -1,0 +1,2 @@
+# REAL-ESTATE-MANAGEMENT-SYSTEM-Property-Dealing-Site-
+Created a Web Application Using Technology as-  •  Front-end:- Html, Jsp, Servlet, CSS, Bootstrap.                     •  Back-end:- MYSQL, Servlet.  ▪ This Web Application  provide    the    most  sophisticated  steps    to    buy    any    property   and    also    for    selling    property.    This    project  contains three main modules:- Admin Management, Client Management, and Buyer who are interested .
